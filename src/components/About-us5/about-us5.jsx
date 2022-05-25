@@ -24,7 +24,7 @@ const AboutUs5 = () => {
                 The Best or Nothing.
               </h5>
               <p>
-                That's what my dad taught me. I strive to achieve excellence in whatever I do.
+                That&apos;s what my dad taught me. I strive to achieve excellence in whatever I do.
               </p>
               <div className="skills-box mt-40">
                 <div className="skill-item">

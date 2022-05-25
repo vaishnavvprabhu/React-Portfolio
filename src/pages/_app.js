@@ -6,6 +6,8 @@ import ScrollToTop from "../components/scrollToTop";
 import LoadingScreen from "../components/Loading-Screen";
 import "../styles/main.scss";
 
+
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
