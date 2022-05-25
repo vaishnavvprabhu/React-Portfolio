@@ -1,8 +1,8 @@
 
-![Logo](https://avatars.githubusercontent.com/u/67993582)
+![Logo](https://avatars.githubusercontent.com/u/67993582?s=100&v=4)
 
 
-# Vaishnav Vivek Prabhu
+# Portfolio Website - Vaishnav Vivek Prabhu
 
 Built With: NextJS, ReactJS, HTML, CSS & Common JS
 
