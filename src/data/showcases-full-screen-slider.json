@@ -1,26 +1,38 @@
 [
     {
         "id": 1,
-        "title": {"first": "Midnight", "second": "Snack"},
-        "image": "/img/portfolio/full/1.jpg",
-        "sub": "Design"
+        "title": {"first": "FlexFit ", "second": "Android"},
+        "image": "/img/portfolio/full/flexfit-android.png",
+        "sub": "Design & Android Programming"
     },
     {
       "id": 2,
-      "title": { "first": "Fisherman", "second": "Portrait" },
-      "image": "/img/portfolio/full/2.jpg",
-      "sub": "Design"
+      "title": { "first": "ExploreiT", "second": "Official" },
+      "image": "/img/portfolio/full/exploreit_mockup_new_new.png",
+      "sub": "Design & Android Programming"
     },
     {
       "id": 3,
-      "title": { "first": "Tribos", "second": "Urbanas" },
-      "image": "/img/portfolio/full/3.jpg",
-      "sub": "Design"
+      "title": { "first": "Android", "second": "Testing Toolkit" },
+      "image": "/img/portfolio/full/android-toolkit-min.jpeg",
+      "sub": "Windows Software Development"
     },
     {
       "id": 4,
-      "title": { "first": "Monsoon", "second": "in the city" },
-      "image": "/img/portfolio/full/4.jpg",
+      "title": { "first": "Semi", "second": "Urban Agriculture" },
+      "image": "/img/portfolio/full/IoT_semiurban_cropped.png",
+      "sub": "IoT & Android Programming"
+    },
+    {
+      "id": 5,
+      "title": { "first": "Fitness", "second": " App Concept" },
+      "image": "/img/portfolio/full/new-iOS-flexfit-min.png",
+      "sub": "Design"
+    },
+    {
+      "id": 6,
+      "title": { "first": "Game", "second": " Launcher Concept" },
+      "image": "/img/portfolio/full/gamex-mock-min.png",
       "sub": "Design"
     }
 ]

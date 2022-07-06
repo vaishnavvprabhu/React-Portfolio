@@ -22,7 +22,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Vaishnav Vivek Prabhu - Portfolio"
+            content="Vaishnav Vivek Prabhu"
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />

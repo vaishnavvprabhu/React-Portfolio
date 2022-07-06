@@ -25,8 +25,10 @@ const WorksStyle4 = () => {
           </div>
         </div>
       </div>
+
       <div className="container">
         <div className="row">
+          {/*
           <div className="filtering col-12">
             <div className="filter wow fadeIn" data-wow-delay=".5s">
               <span data-filter="*" className="active">
@@ -37,8 +39,10 @@ const WorksStyle4 = () => {
               <span data-filter=".software">Software</span>
             </div>
           </div>
-
+*/}
+          
           <div className="gallery full-width">
+            {/*
             <div
               className="col-md-6 items design lg-mr wow fadeInUp"
               data-wow-delay=".4s"
@@ -67,6 +71,8 @@ const WorksStyle4 = () => {
                 </div>
               </div>
             </div>
+
+            
 
             <div
               className="col-md-6 items design wow fadeInUp"
@@ -97,36 +103,10 @@ const WorksStyle4 = () => {
               </div>
             </div>
 
-            
-            <div
-              className="col-md-6 items software wow fadeInUp"
-              data-wow-delay=".4s"
-            >
-              <div className="item-img">
-                <div className="cont">
-                  <h6>Android App Testing Toolkit</h6>
-                  <p>A &apos;C#&apos; Windows Software Development for testing android apps</p>
-                </div>
-                <Link href={`#`}>
-                  <a className="rota">
-                    <img src="/img/portfolio/freelancer/att-ss.png" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
-                <div className="tags">
-                  <span>
-                    <Link href="#">App</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Fitnes</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Creative</Link>
-                  </span>
-                </div>
-              </div>
-            </div>
-\
+            */}
+
+
+
 
             <div
               className="col-md-6 items design android wow fadeInUp"
@@ -143,20 +123,11 @@ const WorksStyle4 = () => {
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
-                <div className="tags">
-                  <span>
-                    <Link href="#">App</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Fitnes</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Creative</Link>
-                  </span>
-                </div>
+
               </div>
             </div>
 
+            {/*
             <div
               className="col-md-6 items design android wow fadeInUp"
               data-wow-delay=".4s"
@@ -185,9 +156,7 @@ const WorksStyle4 = () => {
                 </div>
               </div>
             </div>
-
-            
-
+          */}
 
 
             <div
@@ -205,21 +174,49 @@ const WorksStyle4 = () => {
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
-                <div className="tags">
-                  <span>
-                    <Link href="#">App</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Fitnes</Link>
-                  </span>
-                  <span>
-                    <Link href="#">Creative</Link>
-                  </span>
-                </div>
+
               </div>
             </div>
+
+
+            <div
+              className="col-md-6 items software wow fadeInUp"
+              data-wow-delay=".4s"
+            >
+              <div className="item-img">
+                <div className="cont">
+                  <h6>Android App Testing Toolkit</h6>
+                  <p>A &apos;C#&apos; Windows Software Development for testing android apps</p>
+                </div>
+                <Link href={`#`}>
+                  <a className="rota">
+                    <img src="/img/portfolio/freelancer/att-ss.png" alt="image" />
+                    <div className="item-img-overlay"></div>
+                  </a>
+                </Link>
+
+              </div>
+            </div>
+            <div
+              className="col-md-6 items software wow fadeInUp"
+              data-wow-delay=".4s"
+            >
+              <div className="item-img">
+
+                <Link href={`/showcase/show-all-dark`}>
+                  <a className="rota">
+                    <img src="/img/portfolio/freelancer/show_all_trans_grad.png" alt="image" />
+                    <div className="item-img-overlay"></div>
+                  </a>
+                </Link>
+
+              </div>
+
+            </div>
+
           </div>
         </div>
+
       </div>
     </section>
   );
