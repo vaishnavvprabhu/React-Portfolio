@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "title": { "small": "UI/UX Design", "big": "Meditation App Concept" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/background/meditation-bg.jpg",
+  "videoLink": "https://youtu.be/JR2NcxBcMvQ",
+  "clientURLName": "Self-Project",
+  "date": "20 May 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UI/UX Design",
+      "link": "https://flatironschool.com/blog/what-is-ux-ui-design/"
+    },
+    {
+      "id": 2,
+      "name": "Android",
+      "link": "https://developer.android.com"
+    },
+    {
+      "id": 3,
+      "name": "Figma",
+      "link": "https://www.figma.com/"
+    }
+  ],
+  "intro": {
+    "content": "The idea for a meditation concept project came into my mind during my first year. I could find a lot of apps that helped us meditate. However, I noticed that they didn't feel as nice.",
+    "spmList": [
+
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/small-paix.png",
+  "description": {
+    "content": "The idea was started as a project that I wanted to implement as I was learning UI/UX Design."
+  }
+}

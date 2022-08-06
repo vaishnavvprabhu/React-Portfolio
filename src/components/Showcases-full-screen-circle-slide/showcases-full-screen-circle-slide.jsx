@@ -87,7 +87,7 @@
                       <div className="caption ontop valign">
                         <div className="o-hidden">
                         <Link
-                              href={`/project-details2/project-details2-dark`}
+                              href={slide.link}
                             >
                               <a>
 
@@ -109,10 +109,9 @@
                           <h6 data-swiper-parallax="-2000">
                         <div className="stroke">{slide.sub}</div></h6>
                             <Link
-                              href={`/project-details2/project-details2-dark`}
+                              href={slide.link}
                             >
                               <a>
-                              
                                 <div className="stroke">{slide.title.first}</div>
                                 <span>{slide.title.second}</span>
                               </a>

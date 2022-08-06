@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "title": { "small": "UI/UX Design", "big": "GameX Design" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/background/gamex-design.jpg",
+  "videoLink": "JR2NcxBcMvQ",
+  "clientURLName": "SICSR",
+  "date": "June 2021",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UI/UX Design",
+      "link": "https://flatironschool.com/blog/what-is-ux-ui-design/"
+    },
+    {
+      "id": 2,
+      "name": "Game Launcher",
+      "link": "https://www.quora.com/Why-do-PC-games-require-a-launcher-Cant-we-just-play-the-game-directly"
+    },
+    {
+      "id": 3,
+      "name": "Figma",
+      "link": "https://www.figma.com/"
+    }
+  ],
+  "intro": {
+    "content": "A Game launcher Concept I made back in 2021 during my bachelors",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Discord Integration"
+      },
+      {
+        "id": 2,
+        "name": "Twitch included to see what your favourite creators are doing"
+      },
+      {
+        "id": 3,
+        "name": "Time to Time Discounts"
+      },
+      {
+        "id": 4,
+        "name": "Made for Windows"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/gamex-mock.png",
+  "description": {
+    "content": "Being a gamer myself, I have used end number of game launchers like steam, epic games & blizzard. However, I never found any game launcher design matching my requirements. Hence, I took it in my hands and built a design that I would like to see game launchers adopt. \n Here is the link to the figma design file.",
+    "replink": "https://www.figma.com/proto/DxA50Fxox6yvhFf6vSDmwc/gamexmod?node-id=42%3A91&scaling=scale-down&page-id=0%3A1"
+  }
+}

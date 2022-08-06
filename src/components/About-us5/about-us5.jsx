@@ -34,7 +34,7 @@ const AboutUs5 = () => {
                   </div>
                 </div>
                 <div className="skill-item">
-                  <h5 className="fz-14 mb-15">Android App Development</h5>
+                  <h5 className="fz-14 mb-14">Mobile Development</h5>
                   <div className="skill-progress">
                     <div className="progres" data-value="60%"></div>
                   </div>
@@ -45,12 +45,13 @@ const AboutUs5 = () => {
                     <div className="progres" data-value="70%"></div>
                   </div>
                 </div>
-                <div className="skill-item">
+                {/*<div className="skill-item">
                   <h5 className="fz-14 mb-15">Cyber Security</h5>
                   <div className="skill-progress">
                     <div className="progres" data-value="50%"></div>
                   </div>
                 </div>
+  */}
               </div>
             </div>
           </div>

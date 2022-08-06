@@ -63,7 +63,7 @@ const FreelancreIntro = () => {
                 </div>
                 <div className="text valign">
                   <p>
-                    Hours of <br /> Coding
+                    Hours of <br /> Coding Experience
                   </p>
                 </div>
               </li>

@@ -3,36 +3,49 @@
         "id": 1,
         "title": {"first": "FlexFit ", "second": "Android"},
         "image": "/img/portfolio/full/flexfit-android.png",
-        "sub": "Design & Android Programming"
+        "sub": "Design & Android Programming",
+        "link": "/projects/flexfit-android/"
     },
     {
       "id": 2,
       "title": { "first": "ExploreiT", "second": "Official" },
       "image": "/img/portfolio/full/exploreit_mockup_new_new.png",
-      "sub": "Design & Android Programming"
+      "sub": "Design & Android Programming",
+      "link": "/projects/exploreit-android/"
     },
     {
       "id": 3,
       "title": { "first": "Android", "second": "Testing Toolkit" },
       "image": "/img/portfolio/full/android-toolkit-min.jpeg",
-      "sub": "Windows Software Development"
+      "sub": "Windows Software Development",
+      "link": "/projects/att-win-android/"
     },
     {
       "id": 4,
       "title": { "first": "Semi", "second": "Urban Agriculture" },
       "image": "/img/portfolio/full/IoT_semiurban_cropped.png",
-      "sub": "IoT & Android Programming"
+      "sub": "IoT & Android Programming",
+      "link": "/projects/semi-urban-agriculture/"
     },
     {
       "id": 5,
       "title": { "first": "Fitness", "second": " App Concept" },
       "image": "/img/portfolio/full/new-iOS-flexfit-min.png",
-      "sub": "Design"
+      "sub": "Design",
+      "link": "/projects/flexfit-ios/"
     },
     {
       "id": 6,
       "title": { "first": "Game", "second": " Launcher Concept" },
       "image": "/img/portfolio/full/gamex-mock-min.png",
-      "sub": "Design"
+      "sub": "Design",
+      "link": "/projects/gamex-design/"
+    },
+    {
+      "id": 7,
+      "title": { "first": "Meditation", "second": "App Concept"},
+      "image": "/img/portfolio/full/paix-mock.png",
+      "sub": "Design",
+      "link": "/projects/meditation-concept/"
     }
 ]

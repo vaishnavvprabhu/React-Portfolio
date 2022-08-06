@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "title": { "small": "Windows Programming", "big": "Android Testing Toolkit Windows" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/background/android-toolkit-min.jpeg",
+  "videoLink": "QG0NkpJEaCo",
+  "clientURLName": "SICSR",
+  "date": "27 April 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "C# Programming",
+      "link": "https://www.w3schools.com/cs/index.php"
+    },
+    {
+      "id": 2,
+      "name": "Android Debug Bridge (ADB)",
+      "link": "https://developer.android.com/studio/command-line/adb"
+    },
+    {
+      "id": 3,
+      "name": "QA/QC Tools",
+      "link": "https://www.techtarget.com/whatis/definition/quality-control-QC"
+    }
+  ],
+  "intro": {
+    "content": "This was a project which I made as an intern at Nimblestepz Solutions to help them simplify their process for android app testing.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Change Resolutions & Pixel Density"
+      },
+      {
+        "id": 2,
+        "name": "Sideload APKs"
+      },
+      {
+        "id": 3,
+        "name": "Wireless Debugging available"
+      },
+      {
+        "id": 4,
+        "name": "Wrapper for ADB"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/att-win.jpg",
+  "description": {
+    "content": "This Software allows exchanging files between the PC & Android phone, Allows Apps to be installed via USB, allows Screen Projection (OpenGL ES 2.0 or Higher) & lets you take screenshots without touching the phone."  
+  }
+}

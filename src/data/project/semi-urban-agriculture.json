@@ -1,0 +1,53 @@
+{
+  "id": 1,
+  "title": { "small": "Internet of Things", "big": "Semi Urban Agriculture" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/IoT_semiurban_cropped.png",
+  "videoLink": "",
+  "clientURLName": "SICSR",
+  "date": "27 April 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Internet Of Things",
+      "link": "https://www.urbandictionary.com/define.php?term=iot"
+    },
+    {
+      "id": 2,
+      "name": "Android",
+      "link": "https://source.android.com/setup/start/faqs#:~:text=Open%20Source-,What%20is%20the%20Android%20Open%20Source%20Project%3F,the%20development%20of%20the%20software."
+    }
+  ],
+  "intro": {
+    "content": "This project was created as part of a semester-ending project for the subject 'Internet of Things.'",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Soil Moisture Detection"
+      },
+      {
+        "id": 2,
+        "name": "Pumps water to the plant based on moisture data"
+      },
+      {
+        "id": 3,
+        "name": "Internet Connected (MQTT Protocol)"
+      },
+      {
+        "id": 4,
+        "name": "Synced with a custom made Android App"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/IoT_semiurban_cropped.png",
+  "description": {
+    "content": "The project's goal was to develop a one-stop solution for all plant lovers living in urban and semi-urban areas to ensure that their plants received all of the necessary nutrients without their owners having to worry about their leafy little friends. I also wrote an android that would subscribe the topic that the ESP publishes on, the code for which can be found below.",
+    "replink": "https://github.com/vaishnavvprabhu/MQTT-Android-App"
+  }
+}

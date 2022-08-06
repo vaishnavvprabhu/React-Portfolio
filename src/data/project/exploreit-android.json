@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "title": { "small": "Design & Android Programming", "big": "ExploreiT Android" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/background/exploreit-bg.jpg",
+  "videoLink": "https://youtu.be/JR2NcxBcMvQ",
+  "clientURLName": "SICSR",
+  "date": "27 April 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UI/UX Design",
+      "link": "https://flatironschool.com/blog/what-is-ux-ui-design/"
+    },
+    {
+      "id": 2,
+      "name": "Android",
+      "link": "https://source.android.com/setup/start/faqs#:~:text=Open%20Source-,What%20is%20the%20Android%20Open%20Source%20Project%3F,the%20development%20of%20the%20software."
+    },
+    {
+      "id": 3,
+      "name": "Firebase",
+      "link": "https://firebase.google.com/"
+    }
+  ],
+  "intro": {
+    "content": "I started this project with the idea of creating an official application for an NGO, 'ExploreiT'.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Official Application for ExploreiT"
+      },
+      {
+        "id": 2,
+        "name": "Connected to Firebase"
+      },
+      {
+        "id": 3,
+        "name": "Tech Stack used is Java, Kotlin & Firebase"
+      },
+      {
+        "id": 4,
+        "name": "Coded with Android Design Rules in mind"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "https://opengraph.githubassets.com/adb62985dd7ee2b4925c23bc604781ca44ef50f2a73cf1bc59e77c5786b7119c/vaishnavvprabhu/exploreit",
+  "description": {
+    "content": "The project was started because of a course named 'Service Learning' which enabled us to use our skills to help various Non-Profit Organisations. You may have a look at the repository at ",
+    "replink": "https://github.com/vaishnavvprabhu/exploreit"
+  }
+}

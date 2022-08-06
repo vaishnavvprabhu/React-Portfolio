@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "title": { "small": "Design & Android Programming", "big": "FlexFit Android" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/flexfit-android.png",
+  "videoLink": "JR2NcxBcMvQ",
+  "clientURLName": "SICSR",
+  "date": "27 April 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UI/UX Design",
+      "link": "https://flatironschool.com/blog/what-is-ux-ui-design/"
+    },
+    {
+      "id": 2,
+      "name": "Android",
+      "link": "https://source.android.com/setup/start/faqs#:~:text=Open%20Source-,What%20is%20the%20Android%20Open%20Source%20Project%3F,the%20development%20of%20the%20software."
+    },
+    {
+      "id": 3,
+      "name": "Firebase",
+      "link": "https://firebase.google.com/"
+    }
+  ],
+  "intro": {
+    "content": "The idea for a fitness application popped up in my mind during the Covid-19 pandemic. The idea was to create a hassle free fitness app that lets you track you your fitness and health information without having to worry about data privacy issues.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Exercise recommendation based on the BMI count"
+      },
+      {
+        "id": 2,
+        "name": "Diet Recommendation based on various days of the week"
+      },
+      {
+        "id": 3,
+        "name": "Coded with Android Design Rules in mind"
+      },
+      {
+        "id": 4,
+        "name": "Connected to the Firebase & Google Fit API"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/flexfit-banner.png",
+  "description": {
+    "content": "The idea was started as a UI/UX Design concept project which took shape into a finished deployable android application. This was my first full fledged application project as an android developer that was designed with an aim to achieve a Market-ready Product. You may check out the repository here:",
+    "replink": "https://github.com/vaishnavvprabhu/FlexFit"
+  }
+}

@@ -20,7 +20,7 @@ const ProjectDetails2Header = ({ projectHeaderData }) => {
         <div className="row">
           <div className="col-lg-3">
             <div className="item mt-30">
-              <h6>Client</h6>
+              <h6>Associated with</h6>
               <p>
                 <Link href={projectHeaderData.clientURLLink}>
                   <a>{projectHeaderData.clientURLName}</a>
@@ -45,21 +45,6 @@ const ProjectDetails2Header = ({ projectHeaderData }) => {
                       {projectHeaderData.categories.length != index + 1
                         ? " ,"
                         : ""}
-                    </a>
-                  </Link>
-                ))}
-              </p>
-            </div>
-          </div>
-          <div className="col-lg-3">
-            <div className="item mt-30">
-              <h6>Tags</h6>
-              <p>
-                {projectHeaderData.tags.map((tag, index) => (
-                  <Link href={tag.link} key={tag.id}>
-                    <a>
-                      {tag.name}
-                      {projectHeaderData.tags.length != index + 1 ? " ," : ""}
                     </a>
                   </Link>
                 ))}

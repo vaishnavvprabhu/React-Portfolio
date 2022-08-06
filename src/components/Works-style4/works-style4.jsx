@@ -117,7 +117,7 @@ const WorksStyle4 = () => {
                   <h6>FlexFit</h6>
                   <p>UI/UX Design & Implementation for Android</p>
                 </div>
-                <Link href={`#`}>
+                <Link href={`/projects/flexfit-android/`}>
                   <a className="rota">
                     <img src="/img/portfolio/freelancer/flexfit-android.png" alt="image" />
                     <div className="item-img-overlay"></div>
@@ -168,7 +168,7 @@ const WorksStyle4 = () => {
                   <h6>Paix - Mental Health/ Meditation focused app concept</h6>
                   <p>UI/UX Design</p>
                 </div>
-                <Link href={`#`}>
+                <Link href={`/projects/meditation-concept/`}>
                   <a className="rota">
                     <img src="/img/portfolio/freelancer/paix-mock.png" alt="image" />
                     <div className="item-img-overlay"></div>
@@ -188,7 +188,7 @@ const WorksStyle4 = () => {
                   <h6>Android App Testing Toolkit</h6>
                   <p>A &apos;C#&apos; Windows Software Development for testing android apps</p>
                 </div>
-                <Link href={`#`}>
+                <Link href={`/projects/att-win-android/`}>
                   <a className="rota">
                     <img src="/img/portfolio/freelancer/att-ss.png" alt="image" />
                     <div className="item-img-overlay"></div>

@@ -15,6 +15,7 @@ const ProjectDescription = ({ projectDescriptionData }) => {
           <div className="col-lg-8 offset-lg-1 col-md-8">
             <div className="text js-scroll__content">
               <p className="extra-text">{projectDescriptionData.content}</p>
+              <p className="extra-text"><a href={projectDescriptionData.replink}>{projectDescriptionData.replink}</a></p>
             </div>
           </div>
         </div>

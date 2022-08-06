@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "title": { "small": "UI/UX Design", "big": "FlexFit iOS" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/full/flexfit-android.png",
+  "videoLink": "JR2NcxBcMvQ",
+  "clientURLName": "SICSR",
+  "date": "27 April 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "UI/UX Design",
+      "link": "https://flatironschool.com/blog/what-is-ux-ui-design/"
+    },
+    {
+      "id": 2,
+      "name": "iOS",
+      "link": "https://developer.apple.com/ios/"
+    },
+    {
+      "id": 3,
+      "name": "Figma",
+      "link": "https://www.figma.com/"
+    }
+  ],
+  "intro": {
+    "content": "The idea for a fitness application popped up in my mind during the Covid-19 pandemic. The idea was to design a hassle free fitness iOS app that lets you track you your fitness and health information without having to worry about data privacy issues.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Exercise recommendation based on the BMI count"
+      },
+      {
+        "id": 2,
+        "name": "Diet Recommendation based on various days of the week"
+      },
+      {
+        "id": 3,
+        "name": "Live Sessions with mentors"
+      },
+      {
+        "id": 4,
+        "name": "Made with iOS Design Rules in mind"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "img-src": "/img/portfolio/project2/iot/IoT_semiurban_cropped.png"
+    }
+  ],
+  "gallery_new": "/img/portfolio/full/image-down/flexfit-ios-banner.png",
+  "description": {
+    "content": "The idea was started as a UI/UX Design concept project which took shape into a finished deployable android application. This was my first full fledged application project as a UI/UX Designer that was designed with an aim to achieve a Market-ready Product. \n Here is the link to the figma design file.",
+    "replink": "https://www.figma.com/proto/cD4uTrlCCUmxW79bsbjWOZ/FlexFit-Mobile-App?node-id=12%3A51&scaling=scale-down&page-id=0%3A1"
+  }
+}
